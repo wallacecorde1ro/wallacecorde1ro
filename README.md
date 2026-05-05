@@ -1,5 +1,5 @@
 ✨ BOAS VINDAS AO MEU PERFIL✨ 🤔
 
-meu nome é wallace cordeiro
+Meu nome é Wallace Cordeiro
 
-uso de aprendizagem os cursos alura
+Uso de aprendizagem os cursos alura
